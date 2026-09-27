@@ -4,7 +4,9 @@ return {
     options = {
       opt = {
         number = true,
-        relativenumber = false
+        relativenumber = false,
+	shiftwidth = 4,
+	tabstop = 4,
       },
     },
   },
